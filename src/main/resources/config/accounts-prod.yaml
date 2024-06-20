@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to hdfc accounts related prod APIs "
   contactDetails:
     name: "Sahil  - Product Owner"
-    email: "effd9eb0e975f4023948d87c53ef95842c1223e92537bd041ad32679a62df33d"
+    email: "{cipher}effd9eb0e975f4023948d87c53ef95842c1223e92537bd041ad32679a62df33d"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
