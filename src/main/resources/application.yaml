@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/sahilkaul52/spring-cloud-config-v2.git"
+          uri: "https://github.com/sahilkaul52/spring-cloud-config-v2"
           default-label: main
           timeout: 5
           force-pull: true
