@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to hdfc accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "0cc942e840b31531c7c9f2c75cbd32c0e0325374c16f6b14ec9c33316ef441f51073e0ea0c0d6d9003481a0b9166ca2b"
